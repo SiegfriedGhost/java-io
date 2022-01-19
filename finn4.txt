@@ -1,0 +1,68 @@
+Consórcio 1ª Parcela -> 211,22 (29/10/2021)
+
+11/10 	Amazon.com.br Digital ASAO PAULO   BR 	R$ 	16,90
+21/10 	BRASILCAP RIO DE JANEIR 	   BR 	R$ 	50,00 
+19/10 	AmazonPrimeBR SAO PAULO		   BR 	R$ 	9,90 
+06/12 	PAYPAL *GOOGLE YOUTUB 	           BR   R$      20,90
+
+
+17/07 	PARC=106DEMER PARC 04/06 SAO PAULO BR 	R$ 	24,41 
+13/04 	PG *CODE PARC 08/12 Sao Paulo      BR 	R$ 	199,00 
+01/12 	PAYPAL *DSA A PARC 01/12 SAO PAULO BR 	R$ 	193,37
+26/11 	LORD PARC 01/03 BRASILIA 	   BR 	R$ 	202,34
+15/12 	BARROSO ROSSI PARC 01/03 BRASILIA  BR 	R$ 	275,00 
+
+Parcial: 1807,23
+===============================================================
+
+Ações:
+======
+CEBR6  - 16,48(100) - 06/12/2021
+PCAR3  - 22,38(100) - 03/12/2021
+PETR4  - 26,85(100) - 02/12/2021 
+PETR4  - 26,10(100) - 19/11/2021 
+TAEE11 - 36,65(100) - 12/11/2021 
+TAEE11 - 36,98(100) - 09/11/2021
+PETR4  - 26,10(100) - 08/11/2021
+PETR4  - 28,70(100) - 26/10/2021 
+BBAS3  - 29,52(100) - 25/10/2021 
+BBAS3  - 28,98(100) - 22/10/2021 
+BBAS3  - 30,78(100) - 10/08/2021 
+NUBR33 -  9,80(200) - 09/12/2021
+
+
+Tesouro Prefixado com Juros Semestrais 2031:
+============================================
+Título	                                        Quantidade   Valor Do Título (R$)  Taxa BVMF (R$)   Taxa Agente De Custódia (R$)  Valor Total (R$)
+Tesouro Prefixado com Juros Semestrais 2031	4,94	     1.011,32	           0,00	            0,00	                  4.995,92
+
+
+Tesouro IPCA+ com Juros Semestrais 2055:
+========================================
+Compra:
+=======
+Título	                                 Quantidade   Valor Do Título (R$)   Taxa BVMF (R$)   Taxa Agente De Custódia (R$)   Valor Total (R$)
+Tesouro IPCA+ com Juros Semestrais 2055	 1,13	      4.431,88	             0,00	      0,00                           5.008,02
+Pagamentos:
+===========
+16/11/2021 - Tesouro Direto-Juros - 157,00 C
+
+
+FII: 
+RZTR11 -  97,11(2) - 06/12/2021
+MFII11 - 102,49(2) - 06/12/2021
+VINO11 -  56,47(2) - 06/12/2021
+BTLG11 - 102,00(1) - 06/12/2021 
+BCRI11 - 102,35(1) - 06/12/2021
+KNIP11 - 101,90(1) - 06/12/2021
+RECR11 -  98,49(2) - 06/12/2021
+HGCR11 - 103,94(1) - 06/12/2021
+
+BRCO11 - 94,25(2) - 07/12/2021
+TRXF11 - 97,65(2) - 07/12/2021
+
+
+
+Ativo	        Espec.	Cód. Negociação  Data Crédito	Tipo Evento	Quantidade Base	Fator Cotação	Valor Bruto (R$)	Valor Líquido (R$)
+FII REC RECE	CI	RECR11   	 14/12/2021	RENDIMENTO	2,000	         1	         2,36	                 2,36
+FII BTLG	CI	BTLG11	         23/12/2021	RENDIMENTO	1,000	         1	         0,72	                 0,72
